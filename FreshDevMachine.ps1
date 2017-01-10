@@ -2,10 +2,10 @@
 
 # Visual studio stuff
 cinstm visualstudio2015enterprise
-cinstm visualstudiocode
+#cinstm visualstudiocode
 
 # Visual studio add-ins and stuff
-cinstm Nunit 
+cinstm nunit 
 cinstm resharper
 
 # databases and tools
@@ -18,8 +18,7 @@ cinstm git
 cinstm gitextensions
 cinstm notepadplusplus
 cinstm 7zip
-cinstm nodejs.install
+#cinstm nodejs.install
 cinstm fiddler
-cinstm curl
 cinstm linqpad4
 
